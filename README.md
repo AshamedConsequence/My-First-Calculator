@@ -1,2 +1,3 @@
 # My-First-Calculator
-My first python calculator
+
+The kind of shit you hear about but never see in r/badcode.
